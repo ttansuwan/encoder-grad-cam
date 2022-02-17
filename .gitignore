@@ -1,0 +1,13 @@
+*.npy
+*.png
+*.jpg
+*.h5
+# Environment
+env/
+.env
+# Vscode
+.vscode/
+# Jupyter Notebook
+.ipynb_checkpoints
+# Other people code
+LayerwiseRelevancePropagation/
